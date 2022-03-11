@@ -6,3 +6,8 @@ Survival Shooter:
   
 Survival Maze:
   3D maze game(third person top-down view) with obstacles and enemies on a 10x10 board where the player can move around with the goal of reaching one of the few maze exits; the player loses HP when touches the enemies.
+
+Tech stack:
+C++
+OpenGL
+(with framework)
